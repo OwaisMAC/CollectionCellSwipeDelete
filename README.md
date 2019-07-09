@@ -1,0 +1,1 @@
+- Adding swipe to delete option to the UICOllectionViewCell
